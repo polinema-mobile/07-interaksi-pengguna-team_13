@@ -1,0 +1,11 @@
+<resources>
+    <string-array name="Jurusan">
+        <item>Jurusan Akuntansi</item>
+        <item>Jurusan Tata Niaga</item>
+        <item>Jurusan Teknik Elektro</item>
+        <item>Jurusan Teknik Kimia</item>
+        <item>Jurusan Teknologi Informasi</item>
+        <item>Jurusan Teknik Sipil</item>
+        <item>Jurusan Teknik Mesin</item>
+    </string-array>
+</resources>
